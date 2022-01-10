@@ -1,5 +1,5 @@
 hello world!
 12345
 Good here))
-new line 4
+new line 4 from USER2
 line FROM User1
