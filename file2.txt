@@ -2,3 +2,4 @@ good bye!!!
 some other line
 Line from USER_2
 Another Line from USER_2
+CRITICAL __ bugfix
